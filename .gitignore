@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset files
+*.zip
+data/
+dataset/
+ISL_Clean_Split/
+IndiSignLang_Clean/
+
+# Trained model files
+*.keras
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
